@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3acb510-d25a-4a5f-a648-9dfd239990b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ERP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ERP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,12 +23,12 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DOCTORLOAN/ERP.git",
-    "accountId": "dd3bb487-0c86-4a8a-b1cc-fbd856e3c584"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DOCTORLOAN/ERP.git&quot;,
+    &quot;accountId&quot;: &quot;795f0778-1929-4496-8e6e-459fd3581af1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -74,6 +78,10 @@
       <workItem from="1730280195431" duration="17000" />
       <workItem from="1730280214685" duration="2789000" />
       <workItem from="1730297942064" duration="3346000" />
+      <workItem from="1730341144224" duration="10000" />
+      <workItem from="1730341221202" duration="36000" />
+      <workItem from="1730341275346" duration="635000" />
+      <workItem from="1730345841166" duration="7778000" />
     </task>
     <servers />
   </component>
